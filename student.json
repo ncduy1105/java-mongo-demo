@@ -1,0 +1,7 @@
+[{"_id": {"$oid": "6513db0c0ebd7e9e2b43711e"}, "name": "duy"},
+{"_id": {"$oid": "6513db0c0ebd7e9e2b43712e"}, "name": "duy cao"},
+{"_id": {"$oid": "6509648d2acec7014fa5fa04"}, "name": "Nguyen", "email": "nguyen@gmail.com", "degrees": [{"type": "master", "school": "A", "country": "Viet Nam"}, {"type": "engineer", "school": "A", "country": "Viet Nam"}]},
+{"_id": {"$oid": "6509648d2acec7014fa5fa05"}, "name": "Cao", "email": "cao@gmail.com", "degrees": [{"type": "bacheldor", "school": "B", "country": "UK"}]},
+{"_id": {"$oid": "6509648d2acec7014fa5fa06"}, "name": "Duy", "email": "duy@gmail.com", "degrees": [{"type": "master", "school": "C", "country": "America"}, {"type": "bacheldor", "school": "A", "country": "Viet Nam"}]},
+{"_id": {"$oid": "6509648d2acec7014fa5fa07"}, "name": "Cao", "email": "cao1@gmail.com", "degrees": [{"type": "bacheldor", "school": "B", "country": "UK"}]},
+]

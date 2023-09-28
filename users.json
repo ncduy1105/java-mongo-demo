@@ -1,0 +1,20 @@
+[{
+	"name":"Nguyen",
+	"email":"nguyen@gmail.com",
+	"degrees": [{"type":"master", "school": "A", "country": "Viet Nam"}, {"type":"engineer", "school": "A", "country": "Viet Nam"}]
+},
+{
+	"name":"Cao",
+	"email":"cao@gmail.com",
+	"degrees": [{"type":"bacheldor", "school": "B", "country": "UK"}]
+},
+{
+	"name":"Duy",
+	"email":"duy@gmail.com",
+	"degrees": [{"type":"master", "school": "C", "country": "America"}, {"type":"bacheldor", "school": "A", "country": "Viet Nam"}]
+},
+{
+	"name":"Cao",
+	"email":"cao1@gmail.com",
+	"degrees": [{"type":"bacheldor", "school": "B", "country": "UK"}]
+}]
