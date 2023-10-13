@@ -34,7 +34,7 @@ public class exportJSON{
         close();
     }
     public static void exportJSON() throws IOException {
-        // Get all collection names
+        // Get all collection
         String a="";
         for (String collectionName : database.listCollectionNames()) {
             // Get collection
