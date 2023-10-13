@@ -7,8 +7,6 @@ import org.bson.conversions.Bson;
 import org.bson.types.Binary;
 import java.io.*;
 
-import static com.mongodb.client.model.Filters.eq;
-
 public class binaryData {
     static MongoClient mongoClient;
     static MongoCollection<Document> collection;
